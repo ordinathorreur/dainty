@@ -1,0 +1,4 @@
+Dainty is a dainty little mvc framework for projects big enough that you want to seperate concerns but small enough not to need a real man's framework.
+It might also be useful in component development.
+
+Dainty is pretty much an ActionScript 3 port of Colin Moock's Essential ActionScript 2 example.
